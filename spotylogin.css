@@ -1,0 +1,187 @@
+*{
+background-color: rgb(32, 30, 30);
+color: white;
+padding: 0;
+margin: 0;
+}
+a{
+    background-color: transparent;
+    /* object-position: 0; */
+}
+nav{
+    margin-top: 0;
+    padding-left: 47px;
+    padding-top: 32px;
+    height: 70px;
+    width: 97%;
+    background-color: black;
+}
+.df{
+    background-color: black;
+}
+.dt a img{
+    text-decoration: none;
+    background-color: black;
+}
+.bod{
+    margin: 31px;
+    background-color: black;
+    border-radius: 12px;
+    height: 1000px;
+    width: 734px;
+    margin-left: 425px;
+}
+.tbod{
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 47px;
+    padding-left: 200px;
+}
+.ha{
+    background-color: black;
+    padding-top: 40px;
+    font-size: 46px;
+}
+.tbodb{
+    width: 290px;
+    height: 41px;
+    background-color: black;
+    margin-top: 59px;
+}
+.tb:hover{
+    border-color: aliceblue;
+}
+.tb{
+    width: 319px;
+    height: 49px;
+    background-color: transparent;
+    border-radius: 34px;
+    border-color: grey;
+    font-size: 15px;
+}
+.tbodb img{
+    margin-left: -41px;
+    margin-right: 39px;
+    border-radius: 18px;
+}
+.lin{
+    background-color: black;
+    margin-top: 235px;
+    opacity: .4;
+    padding-left: 145px;
+}
+.in{
+    background-color: black;
+    margin-top: 35px;
+    padding-left: 200px;
+    cursor: pointer;
+}
+.in .py{
+    background-color: black;
+    padding-bottom: 10px;
+}
+.ee{
+    width: 290px;
+    height: 41px;
+    position: absolute;
+    border-radius: 5px;
+    color: aliceblue;
+}
+input:hover{
+   border-color: aliceblue;
+}
+.in .eye{
+    display: none;
+    position: relative;
+    background-color: transparent;
+    padding-top: 10px;
+    padding-left: 255px;
+    width: 20px;
+}
+.in .eyef{
+    display: block;
+    position: relative;
+    background-color: transparent;
+    padding-top: 10px;
+    width: 20px;
+    padding-left: 255px;
+}
+
+.in .eye:active{
+    display: none;
+}
+.in .eyef:active{
+    display: block;
+}
+.rem{
+    margin-top: 29px;
+    background-color: black;
+    padding-left: 200px;
+}
+.mem{
+    display: flex;
+    background-color: black;
+}
+.rem .tog{
+    display: none;
+    background-color: black;
+    padding-right: 16px;
+}
+.rem .togf{
+    display: block;
+    background-color: black;
+    padding-right: 16px;
+}
+.li{
+    width: 300px;
+    height: 49px;
+    background-color: rgb(62, 194, 62);
+    color: white;
+    margin-left: 200px;
+    margin-top: 24px;
+    border-radius: 34px;
+    border-color: green;
+    font-size: 15px;
+}
+.li:hover{
+    scale: 1.05;
+    /* border-color: whitesmoke; */
+}
+.fog{
+    background-color: black;
+    margin-left: 280px;
+    color: white;
+    margin-top: 25px;
+}
+.fog a:hover{
+    color: green;
+}
+.lin2{
+    background-color: black;
+    margin-top: 32px;
+    opacity: .4;
+    padding-left: 145px;
+}
+.das{
+    background-color: black;
+    margin-top: 29px;
+    padding-left: 228px;
+}
+.das a{
+    padding: 8px;
+    background-color: transparent;
+}
+.das a:hover{
+    color: green;
+}
+.base{
+    margin-top: 20px;
+    height: 41px;
+    background-color: black;
+    text-align: center;
+    padding-top: 42px;
+    font-size: 10px;
+}
+.base a{
+    background-color: black;
+}

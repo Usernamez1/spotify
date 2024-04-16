@@ -1,0 +1,386 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+a{
+    text-decoration: none;
+    color: rgb(130,130,130);
+}
+button:hover{
+    scale: 1.09;
+}
+span{
+    background-color: transparent;
+}
+
+/* --------------------------------------nav1----------------------------- */
+.ntn{
+    display: flex;
+    background-color: rgb(9,9,9);
+    height: 644px;
+    border-radius: 20px;
+    width: 1240px;
+    overflow-y: auto;
+    margin-left: 354px;
+    margin-top: 13px;
+    margin-bottom: 19px;
+}
+.nip{
+    width: 1220px;
+    margin-top: 5px;
+    /* position: fixed; */
+    display: flex;
+    height: 65px;
+    background-color: transparent;
+}
+.sed{
+    background-color: rgb(9, 9, 9);;
+    margin-left: 12px;
+    /* width: 45px; */
+
+}
+.slef{
+    background-color: rgb(3,3,3);;
+    height: 28px;
+    color: white;
+    width: 25px;
+    margin-top: 12px;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+.srit{
+    background-color: rgb(3,3,3);
+    height: 25px;
+    color: white;
+    width: 25px;
+    margin-top: 12px;
+    margin-right: 670px;
+    padding-top: 5px;
+    border-radius: 15px;
+}
+.nip a{
+    background-color: rgb(9, 9, 9);
+}
+.signup{
+    cursor: pointer;
+    background-color: rgb(9,9,9);
+    color: white;
+    height: 43px;
+    margin-left: 163px;
+    margin-top: 9px;
+    width: 133px;
+    border-radius: 32px;
+    border: rgb(9,9,9);
+}
+.logn{
+    background-color: white;
+    cursor: pointer;
+    color: rgb(9,9,9);
+    height: 43px;
+    margin-left: 16px;
+    margin-top: 9px;
+    width: 133px;
+    border-radius: 32px;
+    border: white;
+}
+.sht{
+    color: white;
+    /* width: 1234px; */
+    /* height: 65px; */
+    background-color: rgb(9,9,9);
+    margin-top: 89px;
+    margin-left: -1187px;
+}
+.hs{
+    background-color: rgb(9,9,9);
+    margin-top: 23px;
+    margin-bottom: 27px;
+}
+.fbox{
+    display: flex;
+    /* margin-left: -50px; */
+    height: 90px;
+    width: 1000px;
+    background-color: rgb(9,9,9);
+}
+.fbox2{
+    display: flex;
+    margin-top: 190px;
+    height: px;
+    width: 900px;
+    background-color: rgb(9, 9, 9);
+}
+.sbox{
+    margin-top: 25px;
+    margin-bottom: 30px;
+    padding: 10px 10px;
+    min-width: 150px;
+    border-radius: 12px;
+    margin-right: 28px;
+    position: sticky;
+    width: 160px;
+    gap: 12px;
+    cursor: pointer;
+    height: 220px;
+    background-color: rgb(9, 9, 9);
+}
+.sbox:hover{
+    border-radius: 12px;
+    background-color: rgb(32, 27, 27);
+}
+.li{
+    background-color: transparent;
+    width: 160px;
+    opacity: .4;
+}
+.sbox img{
+    border-radius: 12px;
+    position: relative;
+}
+.sbox .playdiv{
+    position: absolute;
+    width: 25px;
+    background-color: rgb(41, 138, 41);
+    border-radius: 17px;
+    color: #000;
+    margin-top: -60px;
+    opacity: 0;
+    transform: 2s;
+    padding: 6px;
+    margin-left: 100px;
+}
+.sbox:hover .playdiv{
+   opacity: 1;
+   transform: translate(8px);
+}
+.b{
+    background-color: transparent;
+}
+/* ---------------------------------------------------end----------------------------------- */
+.end{
+    margin-top: 222px;
+    background-color: rgb(9,9,9);
+    margin-left: -1090px;
+}
+.zero{
+    background-color: rgb(9, 9, 9);
+    opacity: .4;
+    /* margin-left: 35px; */
+    padding-bottom: 35px;
+}
+.xero{
+    background-color: rgb(9, 9, 9);
+    margin-top: 21px;
+    opacity: .4;
+    padding-bottom: 53px;
+}
+/* ---------------------------------------------foot---------------------------------- */
+
+.foott{
+    display: flex;
+    background-color: rgb(9,9,9);
+    color: aliceblue;
+    padding-top: 39px;
+    margin-top: 780px;
+    margin-left: -990px;
+    
+    margin-bottom: 34px;
+}
+.comp{
+    cursor: pointer;
+    background-color: transparent;
+    margin-right: 140px;
+}
+.comp h4{
+    background-color: transparent;
+    padding-bottom: 9px;
+}
+.comp p:hover{
+    text-decoration: underline;
+}
+.comp p{
+    background-color: transparent;
+    opacity: .4;
+    cursor: pointer;
+    font-size: 12px ;
+    padding-top: 9px;
+    /* padding-bottom: 14px; */
+}
+.smedia img{
+    /* display: flex; */
+    background-color: rgb(26, 24, 24);
+    color: white;
+    margin-left: 12px;
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 26px;
+
+
+}
+/* --------------------------------------spotify---------------------- */
+
+nav{
+    color: white;
+    background-color: rgb(18,18,18);
+    height: 120px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 17px;
+    margin-top: -668px;
+    margin-left: 12px;
+}
+.df{
+    background-color: rgb(18,18,18);
+    padding: 10px;
+}
+.hom{
+    background-color: rgb(18,18,18);
+    display: flex;
+    padding-top: 16px;
+    /* padding: 10px; */
+}
+.df .hm{
+    background-color: rgb(18,18,18);
+    padding-right: 16px;
+}
+.ser{
+    background-color: rgb(18,18,18);
+    display: flex;
+    padding-top: 16px;
+}
+.df .sh{
+    background-color: rgb(18,18,18);
+    padding-right: 16px;
+}
+
+/* --------------------------second side div--------------------------------- */
+
+.dff{
+    color: white;
+    background-color: rgb(18,18,18);
+    width: 300px;
+    height: 447px;
+    padding: 17px;
+    margin: 13px;
+    border-radius: 13px;
+}
+.colap{
+    background-color: rgb(18,18,18);
+}
+.cola{
+    background-color: rgb(18,18,18);
+    display: flex;
+    padding-top: 6px;
+    margin-bottom: 8px;
+    color: rgb(167,167,167);
+}
+.colap .sadd{
+    padding-left: 163px;
+}
+.dfx{
+    height: 210px;
+    overflow-y: scroll;
+}
+.dfx::-webkit-scrollbar{
+    background-color: transparent;
+    width: 8px;
+}
+.dfx::-webkit-scrollbar-thumb{
+    background-color: grey;
+    
+}
+.odf{
+    background-color: rgb(36,36,36);
+    height: 170px;
+    margin-top: 9px;
+    margin-left: 8px;
+    margin-bottom: 9px;
+    width: 279px;
+    border-radius: 12px;
+}
+.eee{
+    background-color: rgb(36,36,36);
+    padding: 11px;
+    border-radius: 12px;
+}
+.fff{
+    background-color: rgb(36,36,36);
+    padding: 11px;
+}
+.buu{
+    background-color: white;
+    color: black;
+    height: 33px;
+    margin-left: 16px;
+    margin-top: 10px;
+    width: 163px;
+    border-radius: 32px;
+    border: white;
+}
+.lik{
+    margin-top: 27px;
+    margin-bottom: 16px;
+    /* padding-right: 21px; */
+    width: 240px;
+    font-size: 11px;
+    background-color: rgb(18,18,18);
+}
+.lik a{
+    margin-top: 21px;
+    margin-right: 12px;
+    background-color: rgb(18,18,18);
+}
+.lan{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    background-color: rgb(18,18,18);
+    color: white;
+    height: 33px;
+    outline: none;
+    margin-left: 16px;
+    margin-top: 21px;
+    width: 100px;
+    border-radius: 32px;
+}
+
+/* ----------------------------------------foot pink............................. */
+
+.fot{
+    /* display: flex; */
+    color: white;
+    height: 77px;
+    margin: 10px;
+    background-color: rgb(165,51,159);
+}
+.fot a{
+    background-color: rgb(165,51,159);
+    margin-top: -14px;
+}
+.pre{
+    background-color: rgb(165,51,159);
+    padding-top: 12px;
+    margin-left: 21px;
+}
+.foot{
+    display: flex;
+    background-color: rgb(165,51,159);
+    padding-left: 21px;
+    padding-top: 12px;
+}
+.sig{
+    background-color: rgb(165,51,159);
+    padding-right: 790px;
+}
+.lasb{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    height: 43px;
+    margin-left: 16px;
+    margin-top: -24px;
+    width: 133px;
+    border-radius: 32px;
+    border: white;
+}

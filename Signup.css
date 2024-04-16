@@ -1,0 +1,130 @@
+*{
+    background-color: black;
+    color: white;
+    padding: 0;
+    margin: 0;
+    }
+    nav{
+        margin-top: 0;
+        padding-left: 47px;
+        padding-top: 32px;
+        height: 70px;
+        width: 97%;
+        background-color: black;
+    }
+    .df{
+        background-color: black;
+    }
+    .bod{
+        margin: 31px;
+        background-color: black;
+        border-radius: 12px;
+        height: 1000px;
+        width: 734px;
+        margin-left: 425px;
+    }
+    .tbod{
+        width: 390px;
+        background-color: black;
+        border-radius: 10px;
+        padding-top: 47px;
+        padding-left: 200px;
+        font-size: 26px;
+    }
+    .in{
+        background-color: black;
+        margin-top: 35px;
+        padding-left: 200px;
+    }
+    .ee{
+        margin-top: 8px;
+        width: 290px;
+        height: 51px;
+        border-radius: 5px;
+        color: aliceblue;
+    }
+    input:hover{
+       border-color: aliceblue;
+    }
+    .num{
+        padding-left: 200px;
+        padding-top: 19px;
+    }
+    .num a{
+        color: rgb(60, 250, 60);
+    }
+    .li{
+        width: 300px;
+        height: 49px;
+        background-color: rgb(62, 194, 62);
+        color: white;
+        margin-left: 200px;
+        margin-top: 24px;
+        border-radius: 34px;
+        border-color: green;
+        font-size: 15px;
+    }
+    .li:hover{
+        scale: 1.05;
+    }
+    .lin{
+        background-color: black;
+        margin-top: 32px;
+        opacity: .4;
+        padding-left: 195px;
+    }
+    .tbodb{
+        /* width: 290px; */
+        height: 139px;
+        background-color: black;
+        margin-top: 50px;
+        padding-left: 192px;
+    }
+    .tb:hover{
+        border-color: aliceblue;
+    }
+    .tb{
+        width: 319px;
+        height: 49px;
+        background-color: transparent;
+        border-radius: 34px;
+        border-color: grey;
+        font-size: 15px;
+    }
+    .tbodb img{
+        margin-left: -41px;
+        margin-right: 39px;
+        border-radius: 15px;
+        border-color: black;
+    }
+    .lin2{
+        background-color: black;
+        margin-top: 16px;
+        opacity: .4;
+        padding-left: 10px;
+    }
+    .das{
+        background-color: black;
+        margin-top: 29px;
+        padding-left: 30px;
+    }
+    .das a{
+        padding-left: 8px;
+        background-color: transparent;
+    }
+    .das a:hover{
+        color: green;
+    }
+    .base{
+        margin-top: 20px;
+        width: 250px;
+        height: 41px;
+        background-color: black;
+        text-align: center;
+        padding-top: 132px;
+        font-size: 10px;
+        padding-left: 229px;
+    }
+    .base a{
+        background-color: black;
+    }
